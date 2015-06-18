@@ -22,7 +22,7 @@ tcpdump_ver=4.7.3
 libpcap_ver=1.7.2
 # 指定android api level
 android_api_def=9
-
+# 指定ndk路径
 ndk_dir_def=/home/ubt/Tools/android-ndk-r10d
 
 #-------------------------------------------------------#
